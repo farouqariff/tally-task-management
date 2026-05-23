@@ -76,10 +76,6 @@ SECRET_KEY=              # any random string, e.g.  supersecretkey
 JWT_SECRET_KEY=          # any random string, e.g.  anothersecretkey
 
 VITE_API_BASE_URL=http://localhost:5000    # leave this as-is
-
-MAIL_USERNAME=tmatally@gmail.com
-MAIL_PASSWORD=hicn oamx tzhv lodz
-
 FRONTEND_URL=http://localhost    # leave this as-is
 ```
 
